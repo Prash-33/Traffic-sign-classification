@@ -7,7 +7,7 @@ This project uses a Convolutional Neural Network (CNN) to classify traffic signs
 - Trained on GTSRB dataset.
 
 ## 📁 Files
-- `notebooks/Traffic_sign_Classification.ipynb`: Main development notebook.
+- `Traffic_sign_Classification.ipynb`: Main development notebook.
 - `requirements.txt`: Dependencies needed to run the project.
 
 ## 🚀 How to Run
